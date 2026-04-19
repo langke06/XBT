@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">学不通</string>
+    <!-- 这里填你的线上前端域名 -->
+    <string name="target_url">http://43.143.253.209:1244/</string>
+    <string name="exit_press_again">再按一次退出应用</string>
+</resources>
