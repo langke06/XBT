@@ -23,4 +23,4 @@ chaoxing_user_agent: "Dalvik/2.1.0 (Linux; U; Android 14; Redmi K20 Pro Build/UK
 activity_list_limit: 5
 
 # postgres 数据库连接字符串
-postgres_dsn: "host=example.com port=5432 user=admin password=114514 dbname=xbt sslmode=disable TimeZone=Asia/Shanghai"
+postgres_dsn: "host=xbt.com port=3307 user=xbt.com password=114514 dbname=xbt sslmode=xbt.com TimeZone=Asia/Shanghai"
